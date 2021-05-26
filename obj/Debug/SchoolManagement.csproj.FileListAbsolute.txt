@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\user\Desktop\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\user\Desktop\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\user\Desktop\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\user\Desktop\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
